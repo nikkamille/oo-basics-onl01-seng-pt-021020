@@ -1,6 +1,6 @@
 class Book
   attr_accessor :title, :author, 
-  books = []
+  # books = []
   
 end
 
